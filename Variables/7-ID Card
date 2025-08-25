@@ -1,0 +1,15 @@
+public class HelloWorld {
+    public static void main(String[] args) {
+        String name="Aaliya Noor";//stored in double quotes
+        String state="Odisha";//string stores the reference (memory address) to the data and not the data.
+        char gender='F';//stored in single quotes
+        int age=20;
+        boolean organDonor=false;
+        System.out.println(" ID card! 🪪");
+        System.out.println(name);
+        System.out.println(state);
+        System.out.println(gender);
+        System.out.println(age);
+        System.out.println(organDonor);
+    }
+}
