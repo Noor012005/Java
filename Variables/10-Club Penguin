@@ -1,0 +1,11 @@
+import java.util.Scanner;
+
+public class HelloWorld {
+    public static void main(String[] args) {
+    Scanner sc= new Scanner(System.in);
+    System.out.println("Enter the Number of Coins you have: ");
+    double coins=sc.nextDouble();
+    double USD=coins*0.0045;
+    System.out.println(USD); 
+    }
+}
