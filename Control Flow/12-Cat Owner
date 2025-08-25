@@ -1,0 +1,10 @@
+public class HelloWorld {
+    public static void main(String[] args) {       
+        int cats=0;
+        boolean isCatOwner = cats>1;
+        if (isCatOwner){
+            System.out.println("20% off select cat items with code MEOW2025");
+        }
+        else{
+            System.out.println("Welcome to the Pets Pets Pets store!");
+        }
