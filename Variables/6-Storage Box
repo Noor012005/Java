@@ -1,0 +1,10 @@
+public class HelloWorld {
+    public static void main(String[] args) {
+        int itemsLivingRoom=15;
+        int itemsMasterBedroom=45;//camelCase
+        int itemsBathroom=10;
+        System.out.println(itemsLivingRoom);
+        System.out.println(itemsMasterBedroom);
+        System.out.println(itemsBathroom);
+    }
+}
