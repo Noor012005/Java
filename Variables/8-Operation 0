@@ -1,0 +1,8 @@
+public class HelloWorld {
+    public static void main(String[] args) {
+        double chemicalA=16;
+        double chemicalB=29;
+        double reactionResult=((chemicalA+chemicalB)/chemicalA*chemicalB);
+        System.out.println(reactionResult);
+    }
+}
