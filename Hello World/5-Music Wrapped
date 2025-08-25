@@ -1,0 +1,18 @@
+/**
+ * Woah? What's this? 🤔 It's a weird looking comment. Another *, eh?
+ * Write a little bit about yourself here. What's your name? Where are you from? What do you do?
+ *  Hi Im Aaliya, from India and Im a Student Currently
+ * I'm a comment, and I want to say hi! 👋
+ */
+
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("========== 🎵 Music Wrapped 🎵 ==========");
+        System.out.println("Do not touch");//by MIMOSA
+        System.out.println("Still with you");//by Jungkook
+        System.out.println("Igloo");//by KISS OF LIFE
+        System.out.println("Serendipity");//by Jimin
+        System.out.println("Awake");//by Jin
+        System.out.println("======= 🎵 🎵 🎵 🎵 🎵 🎵 🎵 🎵 ========");
+    }
+}
