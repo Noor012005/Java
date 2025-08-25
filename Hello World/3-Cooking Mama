@@ -1,0 +1,11 @@
+import java.lang.*;
+import java.util.*;
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("MAC AND CHEESE");
+        System.out.println("Step1-Boil 2 cups elbow macaroni in salted water until al dente. Drain and set aside.");
+        System.out.println("Step2-In a pan, melt 2 tbsp butter, stir in 2 tbsp flour, cook 1 minute then, Slowly whisk in 2 cups milk until smooth and thick.");
+        System.out.println("Step3-Stir in 2 cups shredded cheddar cheese (or a mix of cheeses). Season with salt, pepper, and a pinch of paprika.");
+        System.out.println("Step-4Mix pasta with cheese sauce. Serve hot OR bake at 180°C (350°F) for 20 mins with extra cheese on top for a golden crust.");
+    }
+}
