@@ -1,4 +1,4 @@
-import java.util.*;//import java.util.*; → This imports all classes in the java.util package (like Scanner, Random, ArrayList, etc.), so it will definitely cover your Scanner.
+import java.util.*; //import java.util.*; → This imports all classes in the java.util package (like Scanner, Random, ArrayList, etc.), so it will definitely cover your Scanner.
 class Adventuregame {
     public static void main(String[] args) {
         System.out.println("Adventure Game 🗡️🌲");
