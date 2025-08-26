@@ -1,0 +1,10 @@
+public class HelloWorld {
+    public static void main(String[] args) {
+        // Write your code here 💖
+        int i = 0;          // Initialize the loop counter
+        while (i <= 15) { 
+            System.out.println("LET'S GO BTS!");
+            i = i + 1;   
+        }
+    }
+}
