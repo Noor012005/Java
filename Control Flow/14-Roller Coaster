@@ -1,0 +1,12 @@
+public class HelloWorld {
+    public static void main(String[] args) {
+        int weight= 70;
+        int height =165;
+        if (height >120 && weight>40){
+            System.out.println("Congrats! You can ride! 🎢");
+        }
+        else{
+            System.out.println("Sorry, You cant ride today 😞");
+        } 
+    }
+}
